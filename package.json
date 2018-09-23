@@ -1,0 +1,9 @@
+{
+  "name": "@fusionstrings/browserslist-config",
+  "version": "1.0.0",
+  "description": "sharable browserlist config",
+  "main": "index.js",
+  "repository": "https://github.com/fusionstrings/browserslist-config.git",
+  "author": "Dilip Kr. Shukla <contact@fusionstrings.com>",
+  "license": "GPL-3.0"
+}
