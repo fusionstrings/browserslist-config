@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/fusionstrings/browserslist-config.git",
   "author": "Dilip Kr. Shukla <contact@fusionstrings.com>",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "peerDependencies": {
+    "browserslist": "^4.1.1"
+  }
 }
