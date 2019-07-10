@@ -1,6 +1,6 @@
 {
   "name": "@fusionstrings/browserslist-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "sharable browserlist config",
   "main": "index.js",
   "repository": "https://github.com/fusionstrings/browserslist-config.git",
