@@ -1,6 +1,5 @@
 module.exports = [
-	'cover 99.5% in my stats',
-	'> 1%',
+	'> 0.25%',
 	'not android >= 0',
 	'not samsung >= 0',
 	'not ie >= 0',
